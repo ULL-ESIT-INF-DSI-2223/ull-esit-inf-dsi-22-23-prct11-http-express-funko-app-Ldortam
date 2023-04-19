@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Informe de práctica
 #### Autora: Laura Dorta Marrero
 
@@ -34,3 +35,6 @@
 [Estructura básica de proyecto](https://ull-esit-inf-dsi-2223.github.io/typescript-theory/typescript-project-setup.html).
 
 [GitHub Pages](https://pages.github.com/).
+=======
+
+>>>>>>> a4ef343c67eaae2dab245fa772e3d3a5e200d23b
